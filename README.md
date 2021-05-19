@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Mark Pokrovsky**!
 ## 🗺 My current location is Moscow.
-## 🎯At the moment, im focused to become a *Junior Front-end Developer*.
+## 🎯 Intensive learning *Javascript*.
 ### Languages and Technilogies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
