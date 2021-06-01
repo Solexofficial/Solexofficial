@@ -1,6 +1,6 @@
-# 👋 Hi, my name is **Mark Pokrovsky**!
+# 👋 Hi, there =)!
 ## 🗺 My current location is Moscow.
-## 🎯 Intensive learning *Javascript*.
+## 🎯 I like JavaScript and lots of stuff that goes with it (like React, TypeScript, Node.js etc)
 ### Languages and Technilogies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
