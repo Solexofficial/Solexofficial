@@ -11,6 +11,11 @@
 ### 📩  Mail me: solexofficial@yandex.ru
 ### 💬 Telegram, Instagram, VK: solexofficial
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solexofficial&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solexofficial&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=solexofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 <!--
 **Solexofficial/Solexofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
