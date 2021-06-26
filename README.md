@@ -10,4 +10,4 @@
 <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solexofficial&layout=compact&theme=radical" />
  <p>
 <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=Solexofficial&show_icons=true&theme=radical" />
-<img width="500px" align="left" src="https://github-profile-trophy.vercel.app/?username=solexofficial&theme=onedark" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=solexofficial&theme=onedark&title=Stars,Commit, Followers, PullRequest, Repositories" issues="false" />
