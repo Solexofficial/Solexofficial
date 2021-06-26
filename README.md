@@ -1,32 +1,13 @@
-# 👋 Hi, there =)!
-## 🗺 My current location is Moscow.
-## 🎯 I like JavaScript and lots of stuff that goes with it (like React, TypeScript, Node.js etc)
-### Languages and Technilogies
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![GULP](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp)
-![SASS](https://img.shields.io/badge/-preprocessors_SCSS_&_SASS-090909?style=for-the-badge&logo=sass)
-
-### 📩  Mail me: solexofficial@yandex.ru
-### 💬 Telegram, Instagram, VK: solexofficial
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solexofficial&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solexofficial&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=solexofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-<!--
-**Solexofficial/Solexofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img align="center" height="350px" width="100%" src="./github-preview-24mb.gif"></p>
+<br />
+<br />
+<p>
+:man_technologist: &nbsp;&nbsp;&nbsp;I'm a beginner developer.<br />
+:electron: &nbsp;&nbsp;&nbsp;I like JavaScript and lots of stuff that goes with it (like React, TypeScript, Node.js etc)<br />
+👯&nbsp;&nbsp;&nbsp;I'm looking for a job where I can grow and contribute to something good or beautiful.<br />
+  ✉️&nbsp;&nbsp;&nbsp;Reach me: <a href="mailto:solexofficial@yandex.ru">solexofficial@yandex.ru</a> or via <a href="https://t.me/thesolex"><img height="14px" src="./telegram.svg" />&nbsp;telegram</a><br /><br>
+</p>
+<img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solexofficial&layout=compact&theme=radical" />
+ <p>
+<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=Solexofficial&show_icons=true&theme=radical" />
+<img width="500px" align="left" src="https://github-profile-trophy.vercel.app/?username=solexofficial&theme=onedark" />
