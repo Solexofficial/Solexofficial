@@ -2,7 +2,7 @@
 <br />
 <br />
 <p>
-:man_technologist: &nbsp;&nbsp;&nbsp;I'm a beginner developer.<br />
+:man_technologist: &nbsp;&nbsp;&nbsp;I'm a frontend developer.<br />
 :electron: &nbsp;&nbsp;&nbsp;I like JavaScript and lots of stuff that goes with it (like React, TypeScript, Node.js etc)<br />
 👯&nbsp;&nbsp;&nbsp;I'm looking for a job where I can grow and contribute to something good or beautiful.<br />
   ✉️&nbsp;&nbsp;&nbsp;Reach me: <a href="mailto:solexofficial@yandex.ru">solexofficial@yandex.ru</a> or via <a href="https://t.me/thesolex"><img height="14px" src="./telegram.svg" />&nbsp;telegram</a><br /><br>
