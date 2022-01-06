@@ -9,7 +9,7 @@
 </p>
 
 
-
+![](https://komarev.com/ghpvc/?username=Solexofficial&color=blue)
  <p>
 <img src="https://www.codewars.com/users/Solexofficial/badges/large" />
 <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=Solexofficial&show_icons=true&theme=radical" />
