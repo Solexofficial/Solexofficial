@@ -15,8 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@solexofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@solexofficial" height="30" width="40" /></a>
-<a href="https://twitter.com/_solexofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_solexofficial" height="30" width="40" /></a>
 <a href="https://discord.gg/@solexofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@solexofficial" height="30" width="40" /></a>
   <a href="https://t.me/thesolex" target="blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="@solexofficial" height="30" width="40" /></a>
 </p>
