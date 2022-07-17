@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solexofficial&label=Profile%20views&color=0e75b6&style=flat" alt="solexofficial" /> </p>
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently focus on **Typescript, NextJs, NestJs**
 - <p align="left"><img src="https://www.codewars.com/users/Solexofficial/badges/large" alt="codewars-stats" /> </p>
 
 - 📫 How to reach me **solexofficial@yandex.ru**
