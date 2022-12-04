@@ -8,7 +8,7 @@
 <h4 align="left">✋Hi everyone, I'am Mark. Frontend developer</h4>
 
 <span>
- <img src="https://github-readme-stats.vercel.app/api?username=solexofficial&show_icons=true&locale=en&theme=shades-of-purple" alt="solexofficial" align="right" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api?username=solexofficial&show_icons=true&locale=en&theme=shades-of-purple" alt="solexofficial" align="right" width="470" />
 </span>
 
 - 🏢 &nbsp;I'm currently working at **[HS](https://hammer.systems/)** with GitLab.
