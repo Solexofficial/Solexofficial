@@ -13,7 +13,7 @@
 
 - 🏢 &nbsp;I'm currently working at **[HS](https://hammer.systems/)** with GitLab.
 - 💖 &nbsp;Develop platforms by **Typescript, React, nextJS**
-- 🧑‍💻 &nbsp;Frontend Mentor at **[Result school](https://www.youtube.com/c/SIBERIACANCODE)**
+- 🧑‍💻 &nbsp;Frontend Mentor at **[Result school](https://result.school/)**
 - 🥼 &nbsp;Researcher of VR/webXR, 3D techonologies in the browser. 
 - 🦄 &nbsp;Let's talk more in **[Telegram](https://t.me/thesolex)**
 
