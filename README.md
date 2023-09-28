@@ -11,7 +11,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=solexofficial&show_icons=true&locale=en&theme=shades-of-purple" alt="solexofficial" align="right" width="470" />
 </span>
 
-- 🏢 &nbsp;I'm currently working at **[HS]** with GitLab.
 - 💖 &nbsp;Develop platforms by **Typescript, React, nextJS**
 - 🧑‍💻 &nbsp;Frontend Mentor at **[Result school](https://result.school/)**
 - 🥼 &nbsp;Researcher of VR/webXR, 3D tech. 
